@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry including="Letra A.png|Letra B.png|Letra C.png|Letra D.png|Letra E.png|Letra F.png|Letra G.png|Letra H.png|Letra I.png|Letra J.png|Letra L.png|Letra M.png|Letra N.png|Letra O.png|Letra P.png|Letra Qu.png|Letra R.png|Letra S.png|Letra T.png|Letra U.png|Letra V.png|Letra X.png|Letra Z.png|Vazio.png" kind="src" path="imagens"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
